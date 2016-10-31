@@ -1,0 +1,14 @@
+{
+	"category" : "IgnoreSideScrollHack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YuriyTymchuk 10/31/2016 18:55",
+	"instvars" : [
+		 ],
+	"name" : "IgnoreSideScrollMetaLink",
+	"pools" : [
+		 ],
+	"super" : "MetaLink",
+	"type" : "normal" }
