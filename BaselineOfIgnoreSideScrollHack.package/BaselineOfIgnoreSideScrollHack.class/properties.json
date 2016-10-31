@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfIgnoreSideScrollHack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfIgnoreSideScrollHack",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
